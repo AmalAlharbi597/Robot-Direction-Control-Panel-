@@ -31,9 +31,7 @@ How It Operates :
 
 -Final Instructions: Using a special page, retrieve and show the most recent direction.
 
-
-
-![Screenshot 2025-01-31 033151](https://github.com/user-attachments/assets/a9568f56-42b5-47be-86d9-cb47f0de2d70)
+![Screenshot 2025-01-31 032332](https://github.com/user-attachments/assets/a45e9773-bc25-4d95-b193-f040860d27a8)
 ![Screenshot 2025-01-31 032313](https://github.com/user-attachments/assets/997ad14d-bcd9-4588-9230-41cd590c35dd)
 ![Screenshot 2025-01-31 032322](https://github.com/user-attachments/assets/1775da6f-b183-482f-a562-dbe29a1c2b77)
 ![Screenshot 2025-01-31 033012](https://github.com/user-attachments/assets/243f38dd-d64e-4ce1-894e-60bd75d6a00f)
