@@ -1,0 +1,6 @@
+http://localhost/robot_control/index.html
+
+
+http://localhost/robot_control/retrieve.php
+
+http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=robot_amal&table=directions
